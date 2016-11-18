@@ -1,5 +1,5 @@
 '''
-미쿠와 승부! 아이돌 이름 맞추기 게임. MSPGOTHIC 폰트 (특히 size 18)에서 UTF-8아트가 깨지지 않고 나올 것
+미쿠와 승부! 아이돌 이름 맞추기 게임. MSPGOTHIC 폰트 (특히 size 14)에서 UTF-8아트가 깨지지 않고 나올 것
 '''
 
 import random
