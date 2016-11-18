@@ -39,7 +39,7 @@ def checkAct(chosenAct):
         goodEnding = random.randint(1,2)
         if chosenAct == str(goodEnding):
             print('\"저기, 프로듀서. 설마 자는거야?\"')
-            print('\"아, 아닙니다, 후타바씨. 이동하시죠.\"')
+            print('\"아, 아닙니다, 후타바 씨. 이동하시죠.\"')
             print('...눈을 감고 상상해본 후타바씨의 목소리가 아무래도 상상이 아니었던 것 같다.')
             print('서둘러 수트케이스와 자동차 열쇠를 챙겨 후타바씨와 함게 사무실을 나섰다.')
         else:
@@ -55,7 +55,7 @@ def checkAct(chosenAct):
         time.sleep(2)
         print('식당에는 게임기만 들고 내려간 모양이다.')
         time.sleep(2)
-        print('오늘 구내식당의 점심은 이전에 후타바씨가 호평을 했던 메뉴였던 것이 기억난다.')
+        print('오늘 구내식당의 점심은 이전에 후타바 씨가 호평을 했던 메뉴였던 것이 기억난다.')
         time.sleep(2)
         print('\'으으... 프로듀서, 한 숫갈, 한 숫갈만 더 먹고 갈게에-\'')
         time.sleep(2)
